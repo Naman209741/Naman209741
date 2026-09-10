@@ -15,6 +15,7 @@ I'm currently building my technical skills through hands-on projects, labs, and 
 * ☁️ Learning Cloud Computing & AWS
 * 🐍 Learning and building with Python
 * 🌐 Interested in Networking & Web Security
+* 🐧 Exploring Linux and Security Tools
 * 🚀 Currently focused on building practical projects
 * 📚 Always learning something new
 
@@ -22,17 +23,47 @@ I'm currently building my technical skills through hands-on projects, labs, and 
 
 ## 🧰 Skills & Technologies
 
-### 💻 Tech Stack
+### 💻 Programming
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,c,mysql,html,css,javascript,aws,linux,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,c" />
+</p>
+
+### 🌐 Web & Database
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,mysql" />
+</p>
+
+### ☁️ Cloud
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws" />
+</p>
+
+### 🐧 Linux & Development Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,git,github" />
 </p>
 
 ### 🔐 Cybersecurity & Networking
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=kali,linux" />
-</p>
+**Security Tools:**
+
+`Nmap` • `Wireshark` • `Burp Suite` • `Kali Linux`
+
+**Web Security:**
+
+`OWASP` • `PortSwigger Web Security Academy` • `Web Application Security` • `HTTP/HTTPS`
+
+**Networking:**
+
+`TCP/IP` • `DNS` • `Port Scanning` • `Network Analysis`
+
+**Cybersecurity Concepts:**
+
+`Ethical Hacking` • `Authentication` • `Authorization` • `Password Security` • `Hashing`
 
 ---
 
@@ -40,15 +71,17 @@ I'm currently building my technical skills through hands-on projects, labs, and 
 
 ```text
 Cybersecurity
-    ↓
+      ↓
 Networking
-    ↓
+      ↓
 Python
-    ↓
+      ↓
+Linux
+      ↓
 Ethical Hacking
-    ↓
+      ↓
 Web Security
-    ↓
+      ↓
 Cloud Security
-    ↓
+      ↓
 Real-world Security Projects
